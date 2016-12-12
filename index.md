@@ -5,7 +5,7 @@ title: Defra Data Manual
 
 ***
 
-## All Defra Group Data must be managed, in-line with the Defra Data Principles. [Read the Principles >>]({{ site.url }}/principles/principles)
+## All Defra Group Data must be managed, in-line with the Defra Data Principles. [Read the Principles >>](/principles/principles)
 
 ***
 # The Defra Data Manual
