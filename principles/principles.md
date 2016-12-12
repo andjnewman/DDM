@@ -2,11 +2,11 @@
 layout: default
 title: Defra Group Data Principles
 ---
-<div class="blurb">
-	<h1>Defra Group Data Principles</h1>
-	<p>BLAH BLAH BLAH</p>
-  <p>BLAH BLAH BLAH</p>
-  <p>BLAH BLAH BLAH</p>
-  <p>BLAH BLAH BLAH</p>
-  <p>BLAH BLAH BLAH</p>
-</div><!-- /.blurb -->
+
+# Defra Group Data Principles
+1. BLAH BLAH BLAH
+2. BLAH BLAH BLAH
+3. BLAH BLAH BLAH
+4. BLAH BLAH BLAH
+5. BLAH BLAH BLAH
+6. BLAH BLAH BLAH
