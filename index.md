@@ -25,5 +25,5 @@ Click on the stages of the data lifecycle to learn how we manage data in Defra g
 * List of roles
 * List of roles
 
-Browse all guides…
+[Browse all guides…](/DDM/guides/guides)
 
