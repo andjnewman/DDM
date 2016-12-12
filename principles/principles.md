@@ -2,7 +2,7 @@
 layout: default
 title: Defra Group Data Principles
 reader: Everyone
-framework: governance
+categories: [principles]
 ---
 
 # Defra Group Data Principles
