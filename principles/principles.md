@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hank Quinlan, Horrible Cop
+title: Defra Group Data Principles
 ---
 <div class="blurb">
 	<h1>Defra Group Data Principles</h1>
