@@ -1,0 +1,10 @@
+---
+layout: default
+title: Principle 2
+subtitle: 1. This is the second data principle
+abstract: Because she's worth it
+categories: [principles]
+---
+
+#  {{ page.subtitle }}
+## {{ page.abstract }}
