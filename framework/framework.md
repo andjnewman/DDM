@@ -1,14 +1,20 @@
 ---
 layout: default
-title: Defra Group Data Framework
-reader: Everyone
+title: The Data Framework
+headline: A common model for the management of data across the Defra group.
 categories: [framework]
 roles: [Everyone]
 ---
 
-# Defra Group Data Framework
+# {{ page.title }}
 
-The Data Framework is a common model for the management of data across the Defra Group. It prescribes a user led approach to data management, throughout it's life and provides a series of tests agains Defra's data principles to ensure data is pro[perly governed.
+## {{ page.headline }}
+
+In order to achieve a consistent and coherent approach to data, we will manage it to a common framework including a common lifecycle. This means having a clear inventory of all our data holdings, a common categorisation system and a good understanding of their value and cost to our work. It also means we will be able to access our data holdings easily and use them to support real time decision making. 
+
+Through embedding the framework, all data will have a designated owner and everyone will understand their roles and responsibilities in relation to information rights, data protection, privacy and data sharing, at the different stages of the lifecycle. 
+
+## Stages
 
 1. User Led
 2. Need
@@ -24,5 +30,4 @@ The Data Framework is a common model for the management of data across the Defra
   3. Data is treated as a shared Defra group asset
   
 {Insert Framework image}
-
 
