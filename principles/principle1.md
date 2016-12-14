@@ -1,15 +1,13 @@
 ---
 layout: default
 title: Principle 1
-subtitle: This is the first data principle
-abstract: Because he's worth it
+headline: This is the first data principle
 categories: [principles]
+roles: [Everyone]
 ---
 
 # {{ page.title }}
 
-## {{ page.subtitle }}
-
-### {{ page.abstract }} ###
+## {{ page.headline }}
 
 This is the content
