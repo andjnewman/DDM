@@ -6,6 +6,6 @@ abstract: Because he's worth it
 categories: [principles]
 ---
 
-# {{ page.title }}
-## {{ page.subtitle }}
-### {{ page.abstract }}
+# {{ page.title }} #
+## {{ page.subtitle }} ##
+### {{ page.abstract }} ###
