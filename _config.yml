@@ -1,4 +1,4 @@
 name: Defra Data Manual
 markdown: kramdown
-category-list: [principles, frameworks, guides]
+category-list: [principles, framework, guides]
 role-list: [Everyone, Analysts, Data Managers, Data Owners, Data Architects]
