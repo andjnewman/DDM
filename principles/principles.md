@@ -3,6 +3,7 @@ layout: default
 title: Defra Group Data Principles
 reader: Everyone
 categories: [principles]
+roles: [Everyone]
 ---
 
 # Defra Group Data Principles
