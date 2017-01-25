@@ -1,24 +1,22 @@
 ---
-layout: detailed-guidance
-title: Privacy note template for services
-subtitle: Writing questions, wording for labels, addressing the user and more
-category: user-centred-design
+layout: default
+title: 1. Understand data needs
+subtitle: Research to develop a deep knowledge of: the outcome, the data subject, potential users and their needs.
+category: principles
 type: guide
 audience:
   primary: service-managers, designers, content-designers
   secondary: performance-analysts
 status: draft
 phases:
-  - alpha
-  - beta
-  - live
+  - need
 breadcrumbs:
   -
     title: Home
-    url: /service-manual
+    url: /DDM
   -
-    title: Content designers
-    url: /service-manual/content-designers/privacy-note-template-for-services
+    title: Principless
+    url: /DDM/Principles
 ---
 
 
