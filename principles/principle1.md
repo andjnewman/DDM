@@ -16,7 +16,7 @@ breadcrumbs:
     title: Home
     url: /DDM
   -
-    title: Principless
+    title: Principles
     url: /DDM/Principles
 ---
 
