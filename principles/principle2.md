@@ -53,13 +53,13 @@ Clear data needs (see 1) enable us to identify how data supports our business ob
 
 You should consider all principles at each stage of the data lifecycle, but you must consider this principle more closely at the following stages:
 
-- [Need ✔](framework/need)
-- [Check ✔](framework/check)
-- [Obtain ✔](framework/obtain)
-- [Store ✔](framework/store)
-- [Share ✔](framework/share)
+- [Need ✔]({{ site.url }}{{ site.baseurl }}/framework/need)
+- [Check ✔]({{ site.url }}{{ site.baseurl }}/framework/check)
+- [Obtain ✔]({{ site.url }}{{ site.baseurl }}/framework/obtain)
+- [Store ✔]({{ site.url }}{{ site.baseurl }}/framework/store)
+- [Share ✔]({{ site.url }}{{ site.baseurl }}/framework/share)
 - Use
-- [Archive ✔](framework/archive)
+- [Archive ✔]({{ site.url }}{{ site.baseurl }}/framework/archive)
 
 ***
 
