@@ -8796,12 +8796,13 @@ html * {
 
 /*AJN-EDITS*/
 
+/*
 #blackbar .brand {
   background-image: url(https://andjnewman.github.io/DDM/images/defra-header-white.png) !important; }
   @media (max-width: 992px) {
     #blackbar .brand {
       margin-bottom: 18px; } }
-
+*/
 #blackbar h1 {color: white;}
 
 /* ==========================================================================
