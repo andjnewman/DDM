@@ -11,18 +11,21 @@ title: Defra Data Manual
 
 # The Defra Data Manual
 
-## Think differently about data
-Click on the stages of the data lifecycle to learn how we manage data in Defra group >>
+## Follow the Data Framework
+Click on the stages of the data lifecycle to learn how we manage data in Defra group.
 
-### Guides and resources for…
+- [Need](framework/need)
+- [Check](framework/check)
+- [Obtain](framework/obtain)
+- [Store](framework/store)
+- [Share](framework/share)
+- [Use](framework/use)
+- [Archive](framework/archive)
 
-* List of roles
-* List of roles
-* List of roles
-* List of roles
-* List of roles
-* List of roles
-* List of roles
+- [Governance](framework/governance)
+
+## Guides and resources for…
+
 * List of roles
 * List of roles
 
