@@ -26,11 +26,11 @@ Properly documenting needs will make it easier to identify if suitable data alre
 - To ensure costs are kept to a minimum data must only be acquired if there are clearly articulated data needs.
 - Data will be defined for the widest possible group of users, for the benefit of the whole of Defra group.
 
-###Technology Implications
+### Technology Implications
 
 - A clear understanding of data needs must be demonstrated before technology solutions are procured or developed.
 
-##Key data lifecycle stages:
+## Key data lifecycle stages:
 
 You should consider all principles at each stage of the data lifecycle, but you must consider this principle more closely at the following stages:
 
