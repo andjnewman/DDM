@@ -2,3 +2,5 @@ name: Defra Data Manual
 markdown: kramdown
 category-list: [principles, framework, guides]
 role-list: [Everyone, Analysts, Data Managers, Data Owners, Data Architects]
+gems:
+  - jekyll-last-modified-at
