@@ -4,6 +4,8 @@ title:   2. Identify an owner for your data
 subtitle: |
   All data must have a senior owner from the most relevant business area. The owner is responsible for ensuring the data is properly managed throughout it's life.
 type: guide
+categories: [principles]
+roles: [Everyone]
 audience:
   primary: service-managers, designers, content-designers
   secondary: performance-analysts
@@ -22,8 +24,6 @@ breadcrumbs:
   -
     title: Principles
     url: /DDM/Principles
-categories: [principles]
-roles: [Everyone]
 ---
 
 # {{ page.title }}
