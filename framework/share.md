@@ -23,3 +23,7 @@ breadcrumbs:
 ***
   
 {Insert Content}
+
+***
+
+[Go back to the framework...](framework)
