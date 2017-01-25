@@ -1,13 +1,25 @@
 ---
 layout: default
 title: Share
-headline: Make the data available to as many users as possible.
+subtitle: |
+  Make the data available to as many users as possible.
+type: guide
 categories: [framework]
 roles: [Everyone]
+status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /DDM
+  -
+    title: Framework
+    url: /DDM/framework/framework
 ---
 
 # {{ page.title }}
 
-## {{ page.headline }}
+## {{ page.subtitle }}
+
+***
   
 {Insert Content}
