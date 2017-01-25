@@ -55,4 +55,8 @@ You need to ensure the IT infrastructure you use to run your models and tools is
 
 You need to consider resilience plans for the resources and skills you need for any new models, IT and data you acquire. 
 
-You should think more widely than just this organisation, for example you may need to engage with Defra network re. service funding, monthly publication requirements, alignment of services to meet UnITy & Network GIS Strategy requirements, re-use of new services (e.g. Metadata Catalogue, Real-Time Data Platform, etc)."
+You should think more widely than just this organisation, for example you may need to engage with Defra network re. service funding, monthly publication requirements, alignment of services to meet UnITy & Network GIS Strategy requirements, re-use of new services (e.g. Metadata Catalogue, Real-Time Data Platform, etc).
+
+***
+
+[Go back to the framework...](framework)
