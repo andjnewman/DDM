@@ -1,13 +1,9 @@
 ---
 layout: default
 title: All Guides
-subtitle:
 type: guide
-categories: 
-roles:
 status: draft
-phases:
-  breadcrumbs:
+breadcrumbs:
   -
     title: Home
     url: /DDM
