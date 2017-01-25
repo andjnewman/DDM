@@ -8794,11 +8794,15 @@ div.reply .flag-wrapper a {
 html * {
   box-sizing: border-box; }
 
+/*AJN-EDITS*/
+
 #blackbar .brand {
-  background-image: url(http://data.gov.uk/assets/img/dgu-header-white.png) !important; }
+  background-image: url(https://andjnewman.github.io/DDM/images/defra-header-white.png) !important; }
   @media (max-width: 992px) {
     #blackbar .brand {
       margin-bottom: 18px; } }
+
+#blackbar h1 {color: white;}
 
 /* ==========================================================================
 	EXTEND DGU in similar vein
