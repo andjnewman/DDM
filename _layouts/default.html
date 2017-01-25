@@ -18,25 +18,15 @@
                 <div class="container">
                     <h1><a href="{{ site.url }}{{ site.baseurl }}">{{ site.name }}</a></h1>
                 </div>
-<!--                <div class="container">
+		{% if page.breadcrumbs %}
+                <div class="container">
                     <ul class="subnav subnav-data">
-                        {% assign current_section = page.categories %}
-                        <li><a {% if current_section == "principles" %}class="active"{% endif %} href="{{ site.url }}{{ site.baseurl }}{{ site.data.listing.subpath }}">{{ site.data.listing.title }}</a></li>
-                        <li><a {% if current_section == "framework" %}class="active"{% endif %} href="{{ site.url }}{{ site.baseurl }}{{ site.data.publishwhat.subpath }}">{{ site.data.publishwhat.title }}</a></li>
-                       <li><a {% if current_section == "guides" %}class="active"{% endif %} href="{{ site.url }}{{ site.baseurl }}{{ site.data.contact-us.subpath }}">{{ site.data.contact-us.title }}</a></li>
+	  		{% for crumb in page.breadcrumbs %}
+	  		<li><a href="{{ crumb.url }}">{{ crumb.title }}</a></li>
+			{% endfor %}
                     </ul>
--->			
-{% if page.breadcrumbs %}
-<div class="container">
-	<ol role="breadcrumbs" class="subnav subnav-data">
-	  {% for crumb in page.breadcrumbs %}
-	  <li><a href="{{ crumb.url }}">{{ crumb.title }}</a></li>
-	  {% endfor %}
-	</ol>
-</div>
-{% endif %}
-		
-                </div>
+		</div>
+		{% endif %}			
             </nav>
         </header>
         <main>
