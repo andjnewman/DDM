@@ -12,6 +12,8 @@ roles: [Everyone]
 
 ## {{ page.headline }}
 
+***
+
 Acquiring and maintaining data is a substantial cost to Defra group, it also places a regulatory burden on our customers.
 
 It is only possible to express the data need if there is a strong understanding of the business outcome you're trying to achieve, the things you’ll need to know, and potential users (our customers and our people) and their specific needs.
@@ -41,5 +43,7 @@ You should consider all principles at each stage of the data lifecycle, but you 
 - Share
 - Use
 - Archive
+
+***
 
 [Go back to the principles...](principles)
