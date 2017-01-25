@@ -1,5 +1,5 @@
 # DDM
-Data Manual
+Draft Data Manual Can be browsed at: [andjnewman.github.io/DDM/](http://andjnewman.github.io/DDM/)
 
 Metadata format:
 
