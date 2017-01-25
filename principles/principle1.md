@@ -1,4 +1,27 @@
 ---
+layout: detailed-guidance
+title: Privacy note template for services
+subtitle: Writing questions, wording for labels, addressing the user and more
+category: user-centred-design
+type: guide
+audience:
+  primary: service-managers, designers, content-designers
+  secondary: performance-analysts
+status: draft
+phases:
+  - alpha
+  - beta
+  - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Content designers
+    url: /service-manual/content-designers/privacy-note-template-for-services
+---
+
+
 layout: default
 title: |
   1. Understand data needs
@@ -19,7 +42,7 @@ phases:
   -
     title: Principles
     url: /DDM/principles
----
+
 
 
 # {{ page.title }}
