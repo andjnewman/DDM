@@ -33,7 +33,7 @@ You must develop a standard for your data that considers existing standards, and
 
 [Read more about principle 3…](principle3)
 
-##4. Understand and maintain the quality of your data
+## 4. Understand and maintain the quality of your data
 
 It is important to understand the quality of data and to understand if investment is required to improve the quality.
 
