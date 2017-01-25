@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ site.rootpath }}/css/style.css">
+</head>
+<body>
+    <div id="wrap">
+        <header>
+            <div id="blackbar">
+                <div class="container">
+                    <a class="brand" href="http://data.gov.uk"></a>
+                </div>
+            </div>
+            <nav>
+                <div class="container">
+                    <h1><a href="{{  site.rootpath }}/">{{ site.name }}</a></h1>
+                </div>
+                <div class="container">
+                    <ul class="subnav subnav-data">
+                        {% assign current_section = page.url | remove_first:'/' | split:"/" | first %}
+                        <li><a {% if current_section == "listing" %}class="active"{% endif %} href="{{ site.rootpath }}{{ site.data.listing.subpath }}">{{ site.data.listing.title }}</a></li>
+                        <li><a {% if current_section == "publishwhat" %}class="active"{% endif %} href="{{ site.rootpath }}{{ site.data.publishwhat.subpath }}">{{ site.data.publishwhat.title }}</a></li>
+                       <li><a {% if current_section == "contact-us" %}class="active"{% endif %} href="{{ site.rootpath }}{{ site.data.contact-us.subpath }}">{{ site.data.contact-us.title }}</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <main>
+
+		<div class="container">
+    {{ content }}
+</div>
+	 </main>
+    </div>
+    <footer>
+        <div class="liner">
+            <div class="container">
+                <p> <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/"><img src="{{ site.rootpath }}/assets/images/ogl-symbol-big.png"
+                alt="OGL" height="40em" width="40em"></a> All content is available under the <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/">Open Government Licence v2.0.</a> except where otherwise stated.</p>
+            </div>
+    		 <div class="container">
+        		<p>
+				<a href="https://github.com/andjnewman/UK-INSPIRE-GUIDANCE/blob/gh-pages/{{page.path}}">Show on GitHub</a> | <a href="http://prose.io/#andjnewman/UK-INSPIRE-GUIDANCE/edit/gh-pages/{{page.path}}">Edit in prose.io</a>
+			</p>
+     		</div>
+        </div>
+    </footer>
+</body>
+</html>
