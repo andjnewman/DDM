@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: All Guides
@@ -8,7 +7,7 @@ breadcrumbs:
   -
     title: Home
     url: /DDM
- ---
+---
 
 # {{page.title}}
 ## {{page.subtitle
