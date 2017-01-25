@@ -30,14 +30,14 @@ Through embedding the framework, all data will have a designated owner and every
 
 ## Find out more about each stage of the framework:
 
-- [Need](framework/need)
-- [Check](framework/check)
-- [Obtain](framework/obtain)
-- [Store](framework/store)
-- [Share](framework/share)
-- [Use](framework/use)
-- [Archive](framework/archive)
+- [Need](need)
+- [Check](check)
+- [Obtain](obtain)
+- [Store](store)
+- [Share](share)
+- [Use](use)
+- [Archive](archive)
 
-- [Governance](framework/governance)
+- [Governance](governance)
 
 - Find out how to be **User Led** in the [Digital Services Manual](https://www.gov.uk/service-manual/service-standard/understand-user-needs).
