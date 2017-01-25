@@ -28,7 +28,7 @@ In order to achieve a consistent and coherent approach to data, we will manage i
 
 Through embedding the framework, all data will have a designated owner and everyone will understand their roles and responsibilities in relation to information rights, data protection, privacy and data sharing, at the different stages of the lifecycle. 
 
-## Stages
+## Find out more about each stage of the framework:
 
 - [Need](framework/need)
 - [Check](framework/check)
@@ -39,3 +39,5 @@ Through embedding the framework, all data will have a designated owner and every
 - [Archive](framework/archive)
 
 - [Governance](framework/governance)
+
+- Find out how to be **User Led** in the [Digital Services Manual](https://www.gov.uk/service-manual/service-standard/understand-user-needs).
