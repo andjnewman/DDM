@@ -2,16 +2,6 @@
 layout: default
 title: |
   1. Understand data needs
-headline: |
-  Research to develop a deep knowledge of: the outcome, the data subject, potential users and their needs.
-categories: [principles]
-roles: [Everyone]
----
-
----
-layout: default
-title: |
-  1. Understand data needs
 subtitle: |
   Research to develop a deep knowledge of: the outcome, the data subject, potential users and their needs.
 category: principles
