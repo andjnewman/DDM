@@ -6,9 +6,6 @@ subtitle: |
 type: guide
 categories: [principles]
 roles: [Everyone]
-audience:
-  primary: service-managers, designers, content-designers
-  secondary: performance-analysts
 status: draft
 phases:
   - Need
