@@ -32,11 +32,12 @@
 	
 {{ content }}
 
-	<p>
 {% if page.status contains "draft" %}
-	<strong>This is draft content.</strong>
+
+	<hr/>
+	<p><strong>This is draft content.</strong></p>
+	
 {% endif %}
-	Last modified_on: {% last_modified_at %}</p>
 	
 </div>
 	 </main>
