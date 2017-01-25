@@ -15,7 +15,7 @@ breadcrumbs:
     url: /DDM
   -
     title: Principles
-    url: /DDM/principles
+    url: /DDM/principles/principles
 ---
 
 # {{ page.title }}
