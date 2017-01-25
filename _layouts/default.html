@@ -30,11 +30,12 @@
 
 <div class="container">
 	
+{{ content }}
+
 {% if page.status contains "draft" %}
-	<h3 class="alert"> !DRAFT!</h3>
+	<p><strong>This is draft content.</strong></p>
 {% endif %}
 	
-{{ content }}
 </div>
 	 </main>
     </div>
