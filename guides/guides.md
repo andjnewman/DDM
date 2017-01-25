@@ -10,7 +10,7 @@ breadcrumbs:
 ---
 
 # {{page.title}}
-## {{page.subtitle
+## {{page.subtitle}}
 
 ***
 
