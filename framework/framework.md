@@ -12,8 +12,14 @@ breadcrumbs:
     title: Home
     url: /DDM
   -
+    title: Principles
+    url: /DDM/principles/principles
+  -
     title: Framework
     url: /DDM/framework/framework
+  -
+    title: Guides
+    url: /DDM/guides/guides
 ---
 
 # {{ page.title }}
