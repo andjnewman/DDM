@@ -28,8 +28,13 @@
         </header>
         <main>
 
-		<div class="container">
-    {{ content }}
+<div class="container">
+	
+{% if page.status contains "draft" %
+	<h1 class="alert"> !DRAFT!</h1>
+{% endif %}
+	
+{{ content }}
 </div>
 	 </main>
     </div>
