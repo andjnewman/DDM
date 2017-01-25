@@ -1,8 +1,9 @@
 # DDM
 Draft Data Manual Can be browsed at: [andjnewman.github.io/DDM/](http://andjnewman.github.io/DDM/)
 
-Metadata format:
+## Metadata format:
 
+```
 ---
 layout: default
 title: 1. Understand data needs
@@ -28,3 +29,4 @@ breadcrumbs:
     title: Principles
     url: /DDM/principles/principles
 ---
+```
