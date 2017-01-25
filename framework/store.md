@@ -1,13 +1,25 @@
 ---
 layout: default
 title: Store
-headline: Store data in well-described repositories to support use.
+subtitle: |
+  Store data in well-described repositories to support use..
+type: guide
 categories: [framework]
 roles: [Everyone]
+status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /DDM
+  -
+    title: Framework
+    url: /DDM/framework/framework
 ---
 
 # {{ page.title }}
 
-## {{ page.headline }}
+## {{ page.subtitle }}
+
+***
   
 {Insert Content}
