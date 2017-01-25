@@ -4,7 +4,7 @@ title: Can I publish my data?
 subtitle: |
   Guide to help you decide if you can publish a set of data
 type: guide
-categories: [guide]
+categories: [guides]
 roles: [Data Managers, Data Owners]
 status: draft
 phases:
