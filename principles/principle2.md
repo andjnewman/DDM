@@ -25,7 +25,7 @@ breadcrumbs:
 
 # {{ page.title }}
 
-## {{ page.headline }}
+## {{ page.subtitle }}
 
 ***
 
