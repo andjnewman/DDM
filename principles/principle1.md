@@ -20,30 +20,6 @@ breadcrumbs:
     url: /DDM/Principles
 ---
 
-
-layout: default
-title: |
-  1. Understand data needs
-subtitle: |
-  Research to develop a deep knowledge of: the outcome, the data subject, potential users and their needs.
-category: principles
-type: guide
-audience:
-  primary: service-managers, designers, content-designers
-  secondary: performance-analysts
-status: draft
-phases:
-  - need
- breadcrumbs:
-  -
-    title: Home
-    url: /DDM
-  -
-    title: Principles
-    url: /DDM/principles
-
-
-
 # {{ page.title }}
 
 ## {{ page.subtitle }}
