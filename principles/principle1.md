@@ -46,7 +46,7 @@ Properly documenting needs will make it easier to identify if suitable data alre
 
 You should consider all principles at each stage of the data lifecycle, but you must consider this principle more closely at the following stages:
 
-- [Need ✔](framework/need)
+- [Need ✔]({{ site.url }}{{ site.baseurl }}/framework/need)
 - Check
 - Obtain
 - Store
