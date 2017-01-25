@@ -12,6 +12,8 @@ roles: [Everyone]
 
 ## {{ page.headline }}
 
+***
+
 Data is an asset, it has a value to Defra because it enables us to make well informed decisions and provide services to our customers, we must ensure that these assets are adequately protected and properly managed.
 
 Clear data needs (see 1) enable us to identify how data supports our business objectives. It is therefore logical that data is owned by an appropriately senior individual in the most relevant business area.
@@ -43,6 +45,8 @@ You should consider all principles at each stage of the data lifecycle, but you 
 - Share ✔
 - Use
 - Archive ✔
+
+***
 
 [Go back to the principles...](principles)
 
