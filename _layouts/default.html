@@ -16,14 +16,14 @@
             </div>
             <nav>
                 <div class="container">
-                    <h1><a href="{{  site.rootpath }}/">{{ site.name }}</a></h1>
+                    <h1><a href="{{ site.url }}{{ site.baseurl }}">{{ site.name }}</a></h1>
                 </div>
                 <div class="container">
                     <ul class="subnav subnav-data">
                         {% assign current_section = page.url | remove_first:'/' | split:"/" | first %}
-                        <li><a {% if current_section == "listing" %}class="active"{% endif %} href="{{ site.rootpath }}{{ site.data.listing.subpath }}">{{ site.data.listing.title }}</a></li>
-                        <li><a {% if current_section == "publishwhat" %}class="active"{% endif %} href="{{ site.rootpath }}{{ site.data.publishwhat.subpath }}">{{ site.data.publishwhat.title }}</a></li>
-                       <li><a {% if current_section == "contact-us" %}class="active"{% endif %} href="{{ site.rootpath }}{{ site.data.contact-us.subpath }}">{{ site.data.contact-us.title }}</a></li>
+                        <li><a {% if current_section == "listing" %}class="active"{% endif %} href="{{ site.url }}{{ site.baseurl }}{{ site.data.listing.subpath }}">{{ site.data.listing.title }}</a></li>
+                        <li><a {% if current_section == "publishwhat" %}class="active"{% endif %} href="{{ site.url }}{{ site.baseurl }}{{ site.data.publishwhat.subpath }}">{{ site.data.publishwhat.title }}</a></li>
+                       <li><a {% if current_section == "contact-us" %}class="active"{% endif %} href="{{ site.url }}{{ site.baseurl }}{{ site.data.contact-us.subpath }}">{{ site.data.contact-us.title }}</a></li>
                     </ul>
                 </div>
             </nav>
