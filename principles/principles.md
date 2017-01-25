@@ -1,9 +1,15 @@
 ---
 layout: default
 title: Defra Group Data Principles
-reader: Everyone
+subtitle: 
+type: guide
 categories: [principles]
 roles: [Everyone]
+status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /DDM
 ---
 
 # Defra Group Data Principles
