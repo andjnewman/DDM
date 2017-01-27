@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Defra Group Data Principles
+title: The Defra Data Principles
 subtitle: 
 type: guide
 categories: [principles]
