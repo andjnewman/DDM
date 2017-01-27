@@ -15,7 +15,7 @@ breadcrumbs:
 
 ***
 
-## All Defra data must be managed, in-line with our Data Principles. [Read the Principles >>](/DDM/principles/principles)
+## All Defra data must be managed in-line with our Data Principles. [Read the Principles >>](/DDM/principles/principles)
 
 ***
 
