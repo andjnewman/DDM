@@ -24,6 +24,8 @@ breadcrumbs:
 
 ***
 
+<a href="{{site.github.repository_url}}/blob/gh-pages/{{page.path}}">Edit this page</a>
+
 Acquiring and maintaining data is a substantial cost to Defra group, it also places a regulatory burden on our customers.
 
 It is only possible to express the data need if there is a strong understanding of the business outcome you're trying to achieve, the things you’ll need to know, and potential users (our customers and our people) and their specific needs.
