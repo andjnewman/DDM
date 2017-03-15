@@ -32,16 +32,21 @@
 
 <div class="container">
 	
-{{ content }}
+{% if page.status contains "alpha" %}
 
-{% if page.status contains "draft" %}
-
-	<hr/>
-	<p><font color="red"><strong>This is draft content.</strong></font></p>
+	<p><font color="red"><strong>Alpha</strong> This is alpha content, it's being drafted and may be incomplete or inaccurate.</font></p>
 	
 {% endif %}
+{% if page.status contains "beta" %}
 
-	<p><a href="https://github.com/andjnewman/DDM/blob/gh-pages/{{page.path}}">Edit this page</a></p>
+	<hr/>
+	<p><font color="red"><strong>Beta</strong> This is beta content. Please tell us how we could make it better.</font></p>
+	
+{% endif %}
+<hr/>
+
+
+{{ content }}
 
 </div>
 	 </main>
