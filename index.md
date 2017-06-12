@@ -13,12 +13,4 @@ breadcrumbs:
     url: /DDM/guides/guides
 ---
 
-***
-
-## All Defra data must be managed in-line with our Data Principles. [Read the Principles >>](/DDM/principles/principles)
-
-***
-
-# The Defra Data Manual
-
-
+hello world
