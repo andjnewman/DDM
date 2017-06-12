@@ -36,7 +36,7 @@ Click on the stages of the data lifecycle to learn how we manage data in Defra g
 
 - [Governance](framework/governance)
 
-## Guides and resources forâ€¦
+## Guides and resources for ##
 
 * List of roles
 * List of roles
