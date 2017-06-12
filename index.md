@@ -31,9 +31,6 @@ Click on the stages of the data lifecycle to learn how we manage data in Defra g
 - [Share](framework/share)
 - [Use](framework/use)
 - [Archive](framework/archive)
-
-
-
 - [Governance](framework/governance)
 
 ## Guides and resources for ##
@@ -41,5 +38,4 @@ Click on the stages of the data lifecycle to learn how we manage data in Defra g
 * List of roles
 * List of roles
 
-[Browse all guidesâ€¦](/DDM/guides/guides)
-
+[Browse all guides](/DDM/guides/guides)
