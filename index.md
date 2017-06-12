@@ -3,21 +3,21 @@ layout: default
 title: Defra Data Manual
 breadcrumbs:
   -
-    title: Principles
-    url: /DDM/principles/principles
-  -
     title: Framework
     url: /DDM/framework/framework
   -
     title: Guides
     url: /DDM/guides/guides
+  -
+    title: Standards
+    url: /DDM/standards/standards
 ---
 
-# Welcome to the Defra group data manual
+## Welcome to the Defra group data manual
 This manual sets out how we design, use and share data in Defra group.
 
 ***
-## Our Data Framework
+# Our Data Framework
 
 ### Our Vision for Data
 
