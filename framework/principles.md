@@ -12,14 +12,8 @@ breadcrumbs:
     title: Home
     url: /DDM
   -
-    title: Principles
-    url: /DDM/principles/principles
-  -
     title: Framework
     url: /DDM/framework/framework
-  -
-    title: Guides
-    url: /DDM/guides/guides
 ---
 
 They underpin from the data design objectives in the Defra Target Operating Model and form the governance layer of our Data Framework, the principles must be applied to all data at all stages of it’s life.
