@@ -10,7 +10,7 @@ title: 1. Understand data needs
 subtitle: |
   Research to develop a deep knowledge of: the outcome, the data subject, potential users and their needs.
 type: guide
-categories: [principles, framework, guides]
+categories: [framework, guide, standard]
 roles: [Everyone, Analysts, Data Managers, Data Owners, Data Architects]
 status: alpha, beta, final
 phases:
