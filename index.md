@@ -58,7 +58,7 @@ These guides will help you design, share and use data.
 
 ***
 
-##About this manual
+## About this manual
 
 This site has been developed to test the suitability of Github Pages and Jekyll as a platform for the publication of guidance on the design, sharing and use of data across Defra group.
 
