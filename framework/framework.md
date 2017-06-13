@@ -29,8 +29,6 @@ All Defra data must be managed in-line with our Data Principles.
 
 The Data Lifecycle describes how we manage data in the Defra group.
 
-![The Data Framework]({{ site.url }}{{ site.baseurl }}/images/framework.PNG)
-
 [Explore the Data Lifecycle](/DDM/framework/lifecycle)
 
 ### Data People
