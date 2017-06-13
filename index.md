@@ -17,29 +17,29 @@ status: alpha
 
 ## The Data Framework
 
-### - Our Vision for Data
+### Our Vision for Data
 
- - The Defra group Target Operating Model sets out our vision for data and information.
+ The Defra group Target Operating Model sets out our vision for data and information.
 
- - [Read the Target Operating Model](https://intranet.defra.gov.uk/about-defra/what-we-do/strategy/target-operating-model)
+ [Read the Target Operating Model](https://intranet.defra.gov.uk/about-defra/what-we-do/strategy/target-operating-model)
 
-### - Our Data Principles
+### Our Data Principles
 
- - All Defra data must be managed in-line with our Data Principles.
+ All Defra data must be managed in-line with our Data Principles.
 
- - [Find out about our Data Principles](/DDM/framework/principles)
+ [Find out about our Data Principles](/DDM/framework/principles)
 
-### - Our Data Lifecycle
+### Our Data Lifecycle
 
- - The Data Lifecycle describes how we manage data in the Defra group.
+ The Data Lifecycle describes how we manage data in the Defra group.
 
- - [Explore the Data Lifecycle](/DDM/framework/lifecycle)
+ [Explore the Data Lifecycle](/DDM/framework/lifecycle)
 
-### - Data People
+### Data Roles
 
- - Do you use data? Can you help with our data transformation?
+ Do you use data? Can you help with our data transformation?
 
- - [Find out why data matters to your profession]($)
+ [Find out why data matters to your profession]($)
 
 ***
 
