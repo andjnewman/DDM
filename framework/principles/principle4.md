@@ -43,8 +43,8 @@ The required level of data quality will vary between data, data quality must be 
 You should consider all principles at each stage of the data lifecycle, but you must consider this principle more closely at the following stages:
 
 - [Need]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/need)
-- Check({{ site.url }}{{ site.baseurl }}/framework/lifecycle/check)
-- Obtain({{ site.url }}{{ site.baseurl }}/framework/lifecycle/obtain)
+- [Check]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/check)
+- [Obtain]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/obtain)
 
 ***
 
