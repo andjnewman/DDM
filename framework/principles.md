@@ -34,7 +34,7 @@ They also form part of our ICT Enterprise Architecture Principles, so must be co
 
 Research to develop a deep knowledge of: the outcome, the data subject, potential users and their needs.
 
-[Read more about principle 1…](principle1)
+[Read more about principle 1…](principles/principle1)
 
 ## 2. Identify an owner for your data
 
