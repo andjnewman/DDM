@@ -12,6 +12,9 @@ Whilst the site itself is an alpha and may change please use the alpha/beta indi
 - This site is built using the Jekyll framework and Github Pages
 - The content for the site is written in markdown
 - The content is stored in markdown '.md' files the in the 'framework', 'guides' and 'standards' folders.
+  - The following folders & files contain site configuration data and should only be edited by developers: '_layouts', 'CSS', 'gitignore''_config.yml'
+  - The images folder is for images used on the site
+  - The resources folder is for storing PDF's and other resources provided for site users (resources should be linked from relevent pages)
 - Each .md file has a header containing metadata, this is used to render the pages, the format for this header is shown below
   - Note this is not finalised and may change!
   - For Categories, Roles, Status, Phases delete values as required.
