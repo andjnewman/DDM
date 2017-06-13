@@ -47,4 +47,8 @@ Do you use data? Can you help with our data transformation?
 
 These guides will help you design, share and use data.
 
-[List of guides sorted by lifecycle stage here.]
+[A list of guides sorted by lifecycle stage will go in to here.]
+
+## Standards
+
+[There may be a section on standards here???]
