@@ -45,7 +45,7 @@ Considering the needs of all potential users of the data within Defra group and 
 
 You should consider all principles at each stage of the data lifecycle, but you must consider this principle more closely at the following stages:
 
-- [Need]({{ site.url }}{{ site.baseurl }}/framework/need)
+- [Need]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/need)
 
 ***
 
