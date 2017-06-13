@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Defra Data Manual
+title: Defra Data Manual - Welcome
+subtitle: This manual sets out how we design, use and share data in Defra group.
 breadcrumbs:
   -
     title: Framework
@@ -14,10 +15,6 @@ breadcrumbs:
 status: alpha
 ---
 
-## Welcome to the Defra group data manual
-This manual sets out how we design, use and share data in Defra group.
-
-***
 ## Our Data Framework
 
 ### Our Vision for Data
