@@ -2,7 +2,7 @@
 layout: default
 title:  1. Understand data needs
 subtitle: |
-  These principles have been created to help us consistently manage and use the data we need to deliver the business outcomes in the Defra Strategy.
+  Research to develop a deep knowledge and understanding of: the business outcome you're trying to achieve, the things you’ll need to know, who’ll use the data and their user needs.
 type: guide
 categories: [principles]
 roles: [Everyone]
