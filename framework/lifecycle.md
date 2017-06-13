@@ -16,7 +16,7 @@ breadcrumbs:
     url: /DDM/framework/framework
 ---
 
-![The Data Lifecycle]({{ site.url }}{{ site.baseurl }}/images/framework.PNG)
+![The Data Lifecycle]({{ site.url }}{{ site.baseurl }}/images/lifecycle300w.png)
   
 ## Find out more about each stage of the lifecycle:
 
