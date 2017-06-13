@@ -1,13 +1,12 @@
 ---
 layout: default
-title: 1 Understand data needs
-subtitle: Research to develop a deep knowledge and understanding of: the business outcome you're trying to achieve, the things you’ll need to know, who’ll use the data and their user needs.
+title: 1. Understand data needs
+subtitle: |
+  Research to develop a deep knowledge and understanding of: the business outcome you're trying to achieve, the things you’ll need to know, who’ll use the data and their user needs.
 type: guide
 categories: [principles]
 roles: [Everyone]
 status: beta
-phases:
-  - Need
 breadcrumbs:
   -
     title: Home
