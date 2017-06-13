@@ -1,7 +1,8 @@
 ---
 layout: default
-title: 1. Understand data needs
-subtitle: Boo
+title: Defra group Data Principles
+subtitle: |
+  These principles have been created to help us consistently manage and use the data we need to deliver the business outcomes in the Defra Strategy.
 type: guide
 categories: [principles]
 roles: [Everyone]
@@ -13,9 +14,6 @@ breadcrumbs:
   -
     title: Framework
     url: /DDM/framework/framework
- -
-    title: Principles
-    url: /DDM/framework/principles
 ---
 
 Acquiring and maintaining data is a substantial cost to Defra group. It also places a burden on our customers.
