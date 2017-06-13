@@ -47,7 +47,7 @@ The data owner is responsible and accountable for ensuring the data is properly 
 You should consider all principles at each stage of the data lifecycle, but you must consider this principle more closely at the following stages:
 
 - [Need]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/need)
-- [Check]({{ site.url }}{{ site.baseurl }}/framework//lifecycle/check)
+- [Check]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/check)
 - [Obtain]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/obtain)
 - [Store]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/store)
 - [Share]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/share)
