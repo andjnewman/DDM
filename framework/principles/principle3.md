@@ -49,19 +49,22 @@ Standards must be designed to address data needs and must be presented in a clea
 
 ### Technology Implications
 
-- The data owner must be consulted on any changes to the data technology solutions that are used to manage it.
-- The data owner must be kept informed of the initial and ongoing costs of technology solutions.
+- Standards are stored in a single place to ensure they are used in our applications.
+- You must consider the impact on the enterprise data model when developing new technical solution proposals. 
+- Data standards must be produced before technology design and approved before development commences.
+- Data Standards must be maintained as the data and associated technology is developed and implemented.
+- As part of the solution assurance governance, impact analysis on the data model design must be carried out throughout development.
+
 
 ## Key data lifecycle stages:
 
 You should consider all principles at each stage of the data lifecycle, but you must consider this principle more closely at the following stages:
 
-- [Need]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/need)
 - [Check]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/check)
 - [Obtain]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/obtain)
 - [Store]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/store)
 - [Share]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/share)
-- Use
+- Use({{ site.url }}{{ site.baseurl }}/framework/lifecycle/use)
 - [Archive]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/archive)
 
 ***
