@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 1. Understand data needs
 subtitle: |
@@ -14,15 +14,12 @@ breadcrumbs:
     title: Home
     url: /DDM
   -
+    title: Framework
+    url: /DDM/framework/framework
+ -
     title: Principles
-    url: /DDM/principles/principles
+    url: /DDM/framework/principles
 ---
-
-# {{ page.title }}
-
-## {{ page.subtitle }}
-
-***
 
 Acquiring and maintaining data is a substantial cost to Defra group. It also places a burden on our customers.
 
