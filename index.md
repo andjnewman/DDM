@@ -15,7 +15,7 @@ breadcrumbs:
 status: alpha
 ---
 
-## Our Data Framework
+## The Data Framework
 
 ### Our Vision for Data
 
@@ -43,3 +43,19 @@ Do you use data? Can you help with our data transformation?
 
 ***
 
+## Guides
+
+These guides will help you design, share and use data.
+
+{% for cat in site.category-list %}
+## {{ cat }}
+<ul>
+  {% for page in site.pages %}
+      {% for pc in page.categories %}
+        {% if pc == cat %}
+          <li><a href="/DDM{{ page.url }}">{{ page.title }}</a></li>
+        {% endif %}   <!-- cat-match-p -->
+      {% endfor %}  <!-- page-category -->
+  {% endfor %}  <!-- page -->
+</ul>
+{% endfor %}  <!-- cat -->
