@@ -14,6 +14,9 @@ breadcrumbs:
   -
     title: Framework
     url: /DDM/framework/framework
+  -
+    title: Principles
+    url: /DDM/framework/principles
 ---
 
 Acquiring and maintaining data is a substantial cost to Defra group. It also places a burden on our customers.
