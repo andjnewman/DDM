@@ -78,4 +78,7 @@ Build a community around your data that includes the data owner, data managers a
 
 ## Resources
 
-- [Download our data principles poster](../resources/principlesposter.pdf)
+- [Download our A1 data principles poster](../resources/principlespostera1.pdf)
+- [Download our data principles flyer](../resources/principlesflyer.pdf)
+
+- [View our data principles on Google Docs](https://docs.google.com/document/d/1jTC7BCIipNDdrxi8CXVearQzANqL1AGUbvkXbOjnW5k/edit#)
