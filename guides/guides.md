@@ -1,29 +1,14 @@
 ---
 layout: default
-title: All Guides
+title: Guides - Index
+subtitle: These guides will help you design, share and use data.
 type: guide
-status: draft
+status: Alpha
 breadcrumbs:
   -
     title: Home
     url: /DDM
-  -
-    title: Principles
-    url: /DDM/principles/principles
-  -
-    title: Framework
-    url: /DDM/framework/framework
-  -
-    title: Guides
-    url: /DDM/guides/guides
 ---
-
-# {{page.title}}
-## {{page.subtitle}}
-
-***
-
-Essentially a site map
 
 {% for cat in site.category-list %}
 ## {{ cat }}
