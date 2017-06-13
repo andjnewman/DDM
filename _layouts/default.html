@@ -28,6 +28,9 @@
 		</div>
 		{% endif %}			
             </nav>
+		
+        </header>
+        <main>
 {% if page.status == "alpha" %}
 	<div class="container">
 		<p style="color:#ff0000">ALPHA - This guidance is being developed and may change significantly - To provide feedback email open@defra.gsi.gov.uk</p>
@@ -36,11 +39,11 @@
 	<div class="container">
 		<p style="color:#ffbf00">BETA - This guidance has been approved but may be improved - To provide feedback email open@defra.gsi.gov.uk</p>
 	</div>
-{% endif %}		
-        </header>
-        <main>
+{% endif %}
 <div class="container">
-<h1> {{ page.title }}</h1>
+	<h1> {{ page.title }}</h1>
+	<p><strong> {{ page.subtitle }} </strong></p>
+</hr>
 {{ content }}
 </div>
 	 </main>
