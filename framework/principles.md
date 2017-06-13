@@ -22,49 +22,49 @@ They also form part of our ICT Enterprise Architecture Principles, so must be co
 
 ## 1. Understand data needs
 
-Research to develop a deep knowledge of: the outcome, the data subject, potential users and their needs.
+Research to develop a deep knowledge and understanding of: the business outcome you're trying to achieve; the things you’ll need to know; who’ll use the data; and their user needs.
 
 [Read more about principle 1…](principles/principle1)
 
 ## 2. Identify an owner for your data
 
-All data must have a senior owner from the most relevant business area. The owner is responsible for ensuring the data is properly managed throughout it's life.
+All data must have an owner from the most relevant business area.
 
 [Read more about principle 2…](principles/principle2)
 
 ## 3. Standardise your data
 
-You must develop a standard for your data that considers existing standards, and clearly explains the data to other people.
+Develop a data standard to help users understand: what the data is; how it is structured; its quality; its format; and how it can be used.
 
 [Read more about principle 3…](principles/principle3)
 
 ## 4. Understand and maintain the quality of your data
 
-It is important to understand the quality of data and to understand if investment is required to improve the quality.
+It is important to understand the quality of data and to understand if investment is required to meet the needs of users.
 
 [Read more about principle 4…](principles/principle4)
 
-## 5. Design to make data portable
+## 5. Share your data as widely as possible
 
-To make it easy to move data between technology solutions and to integrate data from multiple sources data must be designed to be portable.
+Defra group’s data is open by design. You must share your data as widely as possible.
 
 [Read more about principle 5…](principles/principle5)
 
-## 6. Share your data as widely as possible
+## 6. Make your data easy to use, linkable and portable
 
-We are an open data organisation, we must share our data as widely as possible. You must ensure there are no barriers to sharing your data between Defra group bodies.
+Your data must be easy to use, from source, in common formats and if feasible as linked data.  It must be easy to switch technology solutions without affecting the data.
 
 [Read more about principle 6…](principles/principle6)
 
 ## 7. Make your data easy to find
 
-It’s essential to make it easy for users to find your data, understand it's quality, how it was made, and how it can be used.  
+It’s essential you make it easy for users to find your data and understand: its quality; how it was made; and how they can use it.
 
 [Read more about principle 7…](principles/principle7)
 
-## 8. Make your data easy to use
+## 8. Protect your data
 
-Your data must be made available, where possible from source, in easy to use formats and if feasible in linkable forms.
+Ensure your data is protected appropriately and comply with all relevant data policies and legislation.   
 
 [Read more about principle 8…](principles/principle8)
 
@@ -73,3 +73,9 @@ Your data must be made available, where possible from source, in easy to use for
 Build a community around your data that includes the data owner, data managers and users. Seek feedback from this community and act to improve the data in response.
 
 [Read more about principle 9…](principles/principle9)
+
+***
+
+## Resources
+
+- [Download our data principles poster](../resources/principlesposter.pdf)
