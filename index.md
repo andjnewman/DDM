@@ -62,4 +62,4 @@ These guides will help you design, share and use data.
 
 This site has been developed to test the suitability of Github Pages and Jekyll as a platform for the publication of guidance on the design, sharing and use of data across Defra group.
 
-Whilst the site itself is an alpha and may please use the alpha/beta indicators to understand the status of the guidance published here. If there is no indicator on the page the content is finalised.
+Whilst the site itself is an alpha and may change please use the alpha/beta indicators to understand the status of the guidance published here. If there is no indicator on the page the content is finalised.
