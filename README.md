@@ -12,7 +12,7 @@ subtitle: |
 type: guide
 categories: [principles, framework, guides]
 roles: [Everyone, Analysts, Data Managers, Data Owners, Data Architects]
-status: draft, approved
+status: alpha, beta, live
 phases:
   - Need
   - Check
