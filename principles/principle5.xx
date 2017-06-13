@@ -1,59 +1,55 @@
 ---
 layout: default
-title: 1. Understand data needs
+title:  5. Share your data as widely as possible
 subtitle: |
-  Research to develop a deep knowledge of: the outcome, the data subject, potential users and their needs.
+  Defra group’s data is open by design. You must share your data as widely as possible.
 type: guide
 categories: [principles]
 roles: [Everyone]
-status: draft
-phases:
-  - Need
+status: beta
 breadcrumbs:
   -
     title: Home
     url: /DDM
   -
+    title: Framework
+    url: /DDM/framework/framework
+  -
     title: Principles
-    url: /DDM/principles/principles
+    url: /DDM/framework/principles
 ---
 
-# {{ page.title }}
+We want as many people as possible to access and use our data to create a great place for living in.
+ 
+Opening up our data:
 
-## {{ page.subtitle }}
-
-***
-
-Acquiring and maintaining data is a substantial cost to Defra group, it also places a regulatory burden on our customers.
-
-It is only possible to express the data need if there is a strong understanding of the business outcome you're trying to achieve, the things you’ll need to know, and potential users (our customers and our people) and their specific needs.
-
-Properly documenting needs will make it easier to identify if suitable data already exists.
+- Builds trust in government by allowing others to hold us to account for the decisions we make
+- Provides the potential to improve the way we do things
+- Enables others to use it to inform and build their businesses
+- Helps us to deliver through others by enabling others to use our data to do the things we can’t.
+ 
+We must ensure there are as few barriers to sharing our data, between Defra group bodies and beyond, as possible.
 
 ## Why is this important?
 
 ### Organisational implications
 
-- We have a stronger understanding of  why we need data and who uses it.
-- To ensure costs are kept to a minimum data must only be acquired if there are clearly articulated data needs.
-- Data will be defined for the widest possible group of users, for the benefit of the whole of Defra group.
+- By default all data must be made open, unless there is good reason not to.
+- You must consider the risks associated with making data open and undertake a risk assessment before opening up data.
+- Data must be published under an open licence, such as the Open Government Licence (OGL), by default. Where this is not possible the data must be published using the most open licence possible.
+- Data sharing agreements and subject consent may be needed to allow sharing between public bodies.
 
 ### Technology Implications
 
-- A clear understanding of data needs must be demonstrated before technology solutions are procured or developed.
+- Technology solutions must be designed to enable the open publication of data.
 
 ## Key data lifecycle stages:
 
 You should consider all principles at each stage of the data lifecycle, but you must consider this principle more closely at the following stages:
 
-- [Need ✔]({{ site.url }}{{ site.baseurl }}/framework/need)
-- Check
-- Obtain
-- Store
-- Share
-- Use
-- Archive
+- [Obtain]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/obtain)
+- [Share]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/share)
 
 ***
 
-[Go back to the principles...](principles)
+[Go back to the principles...](../principles)
