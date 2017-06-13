@@ -64,7 +64,7 @@ You should consider all principles at each stage of the data lifecycle, but you 
 - [Obtain]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/obtain)
 - [Store]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/store)
 - [Share]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/share)
-- Use({{ site.url }}{{ site.baseurl }}/framework/lifecycle/use)
+- [Use]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/use)
 - [Archive]({{ site.url }}{{ site.baseurl }}/framework/lifecycle/archive)
 
 ***
