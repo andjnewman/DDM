@@ -2,7 +2,7 @@
 layout: default
 title:  4. Understand and maintain the quality of your data
 subtitle: |
-  It is important to understand the quality of data and to understand if investment is required to meet the needs of users.
+  It is important to understand the quality of data and whether it meets the needs of users.
 type: guide
 categories: [principles]
 roles: [Everyone]
@@ -18,19 +18,29 @@ breadcrumbs:
     title: Principles
     url: /DDM/framework/principles
 ---
-Data quality issues can have a big impact on the quality of our work and our reputation. Good quality data enables good quality decisions. Getting data right first time helps us to save money and provide better services to customers.
+Bad quality data can have a big impact on our work and our reputation. Good quality data enables good quality decisions. 
+
+Getting data right first time helps us to save money and provide better services to customers. Poor quality data can be expensive to fix or clean, it is always quicker and cheaper to get data right first time.
  
-Poor quality data can be expensive to fix or clean.
- 
-The required level of data quality will vary between data, data quality must be considered in the context of the data needs (see principle 1). The quality requirements for the data will be defined in the data’s standard (see principle 3) and must be measurable.
+Different data will have different quality needs. It's important that data is fit for the purposes for which it is used. Some data may be very well suited to one purpose but not fit for another purpose.  It's important that we understand the quality of our data by measuring it regularly. 
+
+Everyone creating data is responsible for its quality. People who own data are responsible for understanding the quality of their data, improving quality where it doesn't meet user needs, and informing data users of quality problems.
 
 ## Why is this important?
 
+If we don't know the quality of our data:
+* we can't be sure of the conclusions we draw from it.
+* people will have to spend time and money fixing data repeatedly.
+* we won't be able to improve quality.
+* we risk reputational damage.
+
 ### Organisational implications
 
+- Anyone who enters data is reponsible for getting it right first time.
 - Data owners are responsible and accountable for data quality and ensuring data meets the needs of the user community.
-- Data specialists help data owners to regularly assess data quality against the relevant standard, and maintain its quality.
+- Data specialists help data owners to regularly assess data quality and address quality problems.
 - Data quality must be recorded.
+- Data users must question the quality of data they use.
 - Maintaining data quality has an associated cost that must be considered when budgeting.
 
 ### Technology Implications
